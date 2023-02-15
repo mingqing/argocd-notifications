@@ -10,7 +10,7 @@ require (
 	github.com/golang/mock v1.4.4
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.0 // indirect
 	github.com/olekukonko/tablewriter v0.0.4
-	github.com/prometheus/client_golang v1.7.1
+	github.com/prometheus/client_golang v1.11.1
 	github.com/robfig/cron v1.2.0 // indirect
 	github.com/sirupsen/logrus v1.6.0
 	github.com/slack-go/slack v0.6.6
